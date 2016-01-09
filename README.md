@@ -1,0 +1,3 @@
+# StargazerProjectBigcgDataFormTest
+分布图表生成程序
+包含test 可以直接运行
